@@ -107,22 +107,22 @@ Flutter is Google's UI toolkit for building beautiful, natively compiled applica
 - [Cookbook](https://docs.flutter.dev/cookbook)
 
 ### Courses
-[Online courses](https://docs.flutter.dev/resources/courses)
-[freeCodeCamp.org](https://youtu.be/VPvVD8t02U8?si=YvuO0twIGUO6uXHm)
-[Mitch Koko](https://youtu.be/TclK5gNM_PM?si=rxRCAUmfWEvomIqy)
-[Rivaan Ranawat](https://youtu.be/CzRQ9mnmh44?si=-xnV3ZmZw_Lhd8FR)
-[dbestech](https://youtu.be/DsTMhjaRQws?si=OuS20RjsZXgaBRRK)
+- [Online courses](https://docs.flutter.dev/resources/courses)
+- [freeCodeCamp.org](https://youtu.be/VPvVD8t02U8?si=YvuO0twIGUO6uXHm)
+- [Mitch Koko](https://youtu.be/TclK5gNM_PM?si=rxRCAUmfWEvomIqy)
+- [Rivaan Ranawat](https://youtu.be/CzRQ9mnmh44?si=-xnV3ZmZw_Lhd8FR)
+- [dbestech](https://youtu.be/DsTMhjaRQws?si=OuS20RjsZXgaBRRK)
 
 ### Books
 [Recommended books about flutter](https://docs.flutter.dev/resources/books)
 
 ### YouTube Channels
-[dbestech](https://www.youtube.com/@dbestech)
-[Rivaan Ranawat](https://www.youtube.com/@RivaanRanawat)
-[Romain Girou](https://www.youtube.com/@Romain_Girou)
-[The Flutter Way](https://www.youtube.com/@TheFlutterWay)
-[Mitch Koko]([https://youtu.be/TclK5gNM_PM?si=rxRCAUmfWEvomIqy](https://www.youtube.com/@createdbykoko)
-[HeyFlutter․com](https://www.youtube.com/@HeyFlutter)
+- [dbestech](https://www.youtube.com/@dbestech)
+- [Rivaan Ranawat](https://www.youtube.com/@RivaanRanawat)
+- [Romain Girou](https://www.youtube.com/@Romain_Girou)
+- [The Flutter Way](https://www.youtube.com/@TheFlutterWay)
+- [Mitch Koko](https://www.youtube.com/@createdbykoko)
+- [HeyFlutter․com](https://www.youtube.com/@HeyFlutter)
 
 ## Projects for Practice 💪
 
