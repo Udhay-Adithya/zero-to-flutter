@@ -1,6 +1,6 @@
 # Flutter Learning Path 🚀
 
-Welcome to the Flutter Learning Path! This repository serves as a structured guide to help you master Flutter development from basics to advanced concepts.
+Welcome to Zero to Flutter! This repository serves as a structured guide to help you master Flutter development from basics to advanced concepts.
 
 ## What is Flutter? 🤔
 
@@ -16,14 +16,14 @@ Flutter is Google's UI toolkit for building beautiful, natively compiled applica
 - **Cross-Platform**: Deploy to iOS, Android, Web, Desktop from one codebase
 
 ### Flutter vs React Native: What to Choose? 🤷‍♀️
-- ### Choose Flutter When:
+- #### Choose Flutter When:
   - Performance is crucial
   - You need pixel-perfect designs across platforms
   - You're building a complex UI with custom animations
   - You want a single codebase for mobile, web, and desktop
   - Your team can invest time in learning Dart
 
-- ### Choose React Native When:
+- #### Choose React Native When:
   - You have a strong JavaScript team
   - You need extensive third-party integrations
   - Platform-specific look and feel is important
@@ -155,4 +155,4 @@ Feel free to contribute to this learning path! You can:
 
 Happy Coding! 🎯
 
-*Note: This repository is maintained by [Udhay Adithya]. Feel free to reach out for any queries or suggestions.*
+*Note: This repository is maintained by Udhay Adithya. Feel free to reach out for any queries or suggestions.*
